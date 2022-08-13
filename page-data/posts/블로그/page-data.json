@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-category-template-js",
     "path": "/posts/블로그",
-    "result": {"pageContext":{"currentCategory":"블로그","categories":["All","PS","WIL","블로그"],"edges":[{"node":{"id":"af754185-e14b-56a1-9a59-84f56eed9c25","excerpt":"👋 글쓰기 원칙 이 원칙들을 최대한 지키려고 해보자 기록해야할 & 기록하고 싶은 내용만 기록한다 포스팅 수를 채우기 위한 글은 작성하지 않는다 너무 긴글 (3-5분 이상 읽어야 하는글)은 여러개로 나눠서 올린다 feynman 방법을 사용해 주제를 정한 후 어린아이에게 설명하듯이 적는다 쉬운 언어로 설명하지 못하는 단어는 사용을 자제한다 어떤 내용을 포함하고 포함하지 않는지에 대한 정보를 글 초반에 적는다 😊 👋 글쓰기 원칙","fields":{"slug":"/first-post/"},"frontmatter":{"categories":"블로그","title":"블로그 시작","date":"March 24, 2022"}},"next":null,"previous":{"fields":{"slug":"/2022-kakao-blind-1/"}}}]}},
+    "result": {"pageContext":{"currentCategory":"블로그","categories":["All","WIL","PS","블로그"],"edges":[{"node":{"id":"af754185-e14b-56a1-9a59-84f56eed9c25","excerpt":"👋 글쓰기 원칙 이 원칙들을 최대한 지키려고 해보자 기록해야할 & 기록하고 싶은 내용만 기록한다 포스팅 수를 채우기 위한 글은 작성하지 않는다 너무 긴글 (3-5분 이상 읽어야 하는글)은 여러개로 나눠서 올린다 feynman 방법을 사용해 주제를 정한 후 어린아이에게 설명하듯이 적는다 쉬운 언어로 설명하지 못하는 단어는 사용을 자제한다 어떤 내용을 포함하고 포함하지 않는지에 대한 정보를 글 초반에 적는다 😊 👋 글쓰기 원칙","fields":{"slug":"/first-post/"},"frontmatter":{"categories":"블로그","title":"블로그 시작","date":"March 24, 2022"}},"next":null,"previous":{"fields":{"slug":"/2022-kakao-blind-1/"}}}]}},
     "staticQueryHashes": ["1073350324","1956554647","2938748437"]}
